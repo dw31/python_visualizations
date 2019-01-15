@@ -7,3 +7,4 @@ This is a project to highlight various libraries for doing data visualization in
 3. Seaborn
 4. Plotly
 
+Required: Python 3.x, pandas, numpy, scipy, matplotlib, jupyter, statsmodels, ggplot 
